@@ -1,2 +1,1 @@
-# Borsch_Swap
-Our product is an aggregator for decentralised exchanges (DEX). It allows you to split trades (if needed) to access maximum liquidity and better exchange rates across Ethereum, Binance Smart Chain, etc. It will also include tools not yet available on the only competitor 1inch DEFI Aggregator, such as leveraged trading and stop-loss, take-profit orders.
+Every year the number of DEX platforms grows and they become more and more developed. Liquidity is shared between platforms and there may not be enough for large transactions. The aggregator is designed to divide the transaction between platforms, solving the liquidity problem and selecting the best offer for the exchange.
