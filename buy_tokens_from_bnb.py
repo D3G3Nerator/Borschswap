@@ -15,9 +15,9 @@ dydxrouteraddress = "0x09403FD14510F8196F7879eF514827CD76960B5d"
 sushi_router = "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506"
 one_inch_router_address = "0x1111111254fb6c44bAC0beD2854e76F90643097d"
 
-# pancakeswap abi
-panabi = json.loads(open('abi').read())
-dydxabi = json.loads(open('abi').read())
+# pancakeswap abi_1inch
+panabi = json.loads(open('abi_1inch').read())
+dydxabi = json.loads(open('abi_1inch').read())
 sushiabi = json.loads(open("abi's/sushiswap_abi.json").read())
 one_inch_abi = json.loads(open("abi's/1inch_abi.json").read())
 
